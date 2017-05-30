@@ -16,7 +16,8 @@ Do these things as soon as you join the group.
 - [ ] Get a university ID card
 
 ## Safety training
-*[Available on Canvas](https://utk.instructure.com)*
+*[Available on Canvas](https://utk.instructure.com)*  
+*Print/Save as PDF each completion certificate*
 - [ ] EH&S training on Compressed Gas Cylinder A
 - [ ] EH&S training on Hazard Communications
 - [ ] EH&S training on HAZMAT
@@ -25,7 +26,11 @@ Do these things as soon as you join the group.
 - [ ] EH&S training on Fume Hood
 
 *[Radiation Safety](https://radiationsafety.utk.edu)*
-- [ ] Email Shawn Drake (sdrake4@utk.edu)
+- [ ] Take the earliest possible [open source training class](http://radiationsafety.utk.edu/training/)
+- [ ] Email [Shawn Drake](mailto:sdrake4@utk.edu) to be added to the online training for Open Source and Sealed Source (also on Canvas)
+- [ ] Do the online training for radiation safety
+
+- [ ] Email all certificates (7 online plus one from radiation safety class) to [Matt Cook](mailto:mcook4@vols.utk.edu).
 
 # Good classes for new graduate students
 The goal for your first year should be to get ready to take quals
@@ -63,4 +68,7 @@ The requirements for coursework are:
 ## Pass the Quals
 Quals are offered in late May. The department website suggests taking the quals after 30 hours of coursework; I don't know why they do this. You should plan to take them after your first year in grad school, unless you have some reason not to. 
 
-Quals are taken over two days. The first day is two 90-minute tests, one on topics covered in Reactor Theory (NE470), the other on topics covered in Radiation Shielding (NE433 and NE551).
+Quals are taken over two days. The first day is two 90-minute tests, one on topics covered in Reactor Theory (NE470), the other on topics covered in Radiation Shielding (NE433 and NE551). The second day is a 3-hour test in your field of research. Most of our group takes the **Security** qualifier. Useful classes for this:
+   - NE530: Overview of security topics,
+   - NE542: Fuel Cycles (for topics related to diversion, etc), and
+   - NE550: Yeah, the really hard class I talked about above.

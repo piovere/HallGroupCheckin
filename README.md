@@ -36,19 +36,14 @@ Do these things as soon as you join the group.
 The goal for your first year should be to get ready to take quals.
 
 ## If you have a degree in nuclear engineering
-- Rachel
-- And
-- Duncan
-- And
-- Matt
-- Fill
-- This
-- In
+- NE571 (Reactor Theory and Design)
+- NE530 (Nuclear Security Sci & Analysis)
+- NE551 (Health Physics/Radiation Protection)
 
 ## If your degree is in some other field
 - Fall Semester
     - NE470 (Reactor Theory): This will involve several projects with some calculus-2 based derivations and computer programming. Don't stress too much if you don't have a background in programming, there are resources in the group that can help. **Everyone should take this class in their first semester**
-    - NE551 (Radiation Protection): This is the class following 
+    - NE551 (Radiation Protection): This is the class following NE433. You should feel pretty confident taking NE551, though. It's taught pretty well and it probably worth going straight into 551, rather than burning one of your 400-level classes.
 - Spring Semester
     - NE550 (Radiation Detection): This class is a kick in the teeth, but you'll pretty much need it. It covers the different categories of radiation detectors along with a lab that uses most of them. This class will take up **A LOT** of time.
 
@@ -63,12 +58,51 @@ The requirements for coursework are:
     - At least 6 credits above 600 level
         - At least 3 credits towards this requirement must be in the NE department
 - 24 hours of doctoral research
-    - NE600
+    - NE600: This is the (only) class that fills this requirement. Keep in mind that once you start taking this, you have to take it every Fall and Spring . If you need to be excused from this requirement there is [a process](http://gradschool.utk.edu/forms-central/600-continuous-enrollment-exemption/) for that, but you need departmental approval
 
 ## Pass the Quals
 Quals are offered in late May. The department website suggests taking the quals after 30 hours of coursework; I don't know why they do this. You should plan to take them after your first year in grad school, unless you have some reason not to. 
 
-Quals are taken over two days. The first day is two 90-minute tests, one on topics covered in Reactor Theory (NE470), the other on topics covered in Radiation Shielding (NE433 and NE551). The second day is a 3-hour test in your field of research. Most of our group takes the **Security** qualifier. Useful classes for this:
+Quals are taken over two days. The first day is two 90-minute tests, one on topics covered in Reactor Theory (NE470), the other on topics covered in Health Physics/Radiation Protection (NE433 and/or NE551). The second day is a 3-hour test in your field of research. Most of our group takes the **Security** qualifier. Useful classes for this:
    - NE530: Overview of security topics,
    - NE542: Fuel Cycles (for topics related to diversion, etc), and
    - NE550: Yeah, the really hard class I talked about above.
+
+## Assemble your committee
+
+## Write and defend your proposal
+
+## Write and defend your thesis
+- [Formatting Rules](http://gradschool.utk.edu/thesesdissertations/formatting/)
+- [Templates](http://gradschool.utk.edu/thesesdissertations/formatting/templates/)
+- [Approval Form](http://gradschool.utk.edu/thesesdissertations/getting-approval/)
+
+# Other
+## Certificates
+There are a couple of [graduate certificates](http://ne.utk.edu/graduate-program/certificates/) that you should be able to pick up pretty easily in this group.
+
+There is a form available on [Forms Central](http://gradschool.utk.edu/forms-central/) once you have completed the required courses. Fill it out and bring it to Dr. Hines to route.
+
+[Nuclear Security Science and Analysis Certificate](http://ne.utk.edu/graduate-program/certificates/#custom-collapse-0-2):
+This requires four courses:
+- NE530: Nuclear Security Science and Analysis
+- Any one of the following:
+    - NE404: Nuclear Fuel Cycle
+    - NE433: Principles of Health Physics
+    - NE470: Nuclear Reactor Theory I
+    - NE542: Management of Radioactive Materials
+    - NE551: Radiation Protection
+    - NE571: Reactor Theory and Design
+- Any two of the following
+    - NE532: Advanced Topics in Nuclear Security Science and Analysis
+    - NE533: Physical Security for High-Consequence Facilities
+    - NE534: Physical Security Vulnerability Assessment
+    - NE550: Radiation Measurements Laboratory
+    - NE635: Nuclear Forensics
+    - POLS686: Arms Control, Deterrence and Nucelar Nonproliferation
+
+# Useful Links
+- [Forms Central](http://gradschool.utk.edu/forms-central/): Forms to request keys
+
+
+[Forms Central](http://gradschool.utk.edu/forms-central/)

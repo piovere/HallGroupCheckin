@@ -33,7 +33,7 @@ Do these things as soon as you join the group.
 - [ ] Email all certificates (7 online plus one from radiation safety class) to [Matt Cook](mailto:mcook4@vols.utk.edu).
 
 # Good classes for new graduate students
-The goal for your first year should be to get ready to take quals
+The goal for your first year should be to get ready to take quals.
 
 ## If you have a degree in nuclear engineering
 - Rachel

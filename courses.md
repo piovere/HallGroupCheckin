@@ -70,3 +70,20 @@ Notes:
 
 Difficulty:
 5/5, maybe 6/5
+
+# Other Departments
+
+## CHEM580: Radiochemistry (dual listed in NE)
+This class is taught by Dr. Schweizer, who was born in 1925 and worked on the Manhattan Project. The subject matter is pretty basic, but he grades very hard.
+
+Need:
+- N/a
+
+Nice to have:
+- Some Chemistry knowledge
+
+Notes:
+- N/a
+
+Difficulty:
+4/5

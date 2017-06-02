@@ -10,6 +10,7 @@ Do these things as soon as you join the group.
 - [ ] Send letter of acceptance to ?????
 - [ ] Email John and Howard; Ask John to assign a sponsor
 - [ ] Contact your sponsor for any questions over the summer about good places to live, etc.
+- [ ] Check with Howard or John to find out how you are getting paid (partial/complete/research assistant/teaching assistant)
 
 ## University stuff
 - [ ] Get an email address
@@ -51,7 +52,7 @@ The goal for your first year should be to get ready to take quals.
     - NE550 (Radiation Detection): This class is a kick in the teeth, but you'll pretty much need it. It covers the different categories of radiation detectors along with a lab that uses most of them. This class will take up **A LOT** of time.
 
 # What you have to do to get your PhD
-There are several steps to get your PhD. This is meant as a single-source site to aid in planning. Things could shift without me knowing; please check my math before you take anthing in here as gospel.
+There are several steps to get your PhD. This is meant as a single-source site to aid in planning. Things could shift without me knowing; please check my math before you take anything in here as gospel.
 
 ## Take some classes
 The requirements for coursework are:
@@ -108,7 +109,5 @@ This requires four courses:
     - POLS686: Arms Control, Deterrence and Nucelar Nonproliferation
 
 # Useful Links
-- [Forms Central](http://gradschool.utk.edu/forms-central/): Forms to request keys
-
-
-[Forms Central](http://gradschool.utk.edu/forms-central/)
+- [Grad School Forms](http://gradschool.utk.edu/forms-central/): Forms for applying to graduate, for certificates, etc.  
+- [UTK Forms](http://fio.bus.utk.edu/Forms/forms.asp): Forms for travel, keys, etc.

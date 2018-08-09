@@ -108,6 +108,9 @@ This requires four courses:
     - NE635: Nuclear Forensics
     - POLS686: Arms Control, Deterrence and Nucelar Nonproliferation
 
+## How to meet with Howard
+If you need to get something signed by Howard or just meet with him for advice/guidance, email or call [Missy Hodge](mailto:lhodge@utk.edu) and make an appointment. This might seem silly, but it's definitely the most reliable way to meet with Howard. And yes, this means you need to plan ahead if you are up against a deadline.
+
 # Useful Links
 - [Grad School Forms](http://gradschool.utk.edu/forms-central/): Forms for applying to graduate, for certificates, etc.  
 - [UTK Forms](http://fio.bus.utk.edu/Forms/forms.asp): Forms for travel, keys, etc.
